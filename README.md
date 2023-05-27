@@ -35,6 +35,7 @@ http://localhost:85/aarogya_v1.2/ (80/8080 can be used in place of 85 if port al
 6.Again,type in browser
 
 http://localhost:85/phpmyadmin/
+
 7.Create a database: aarogya_v1.2_db
 
 8.Import file: aarogya_v1.2_db.sql in the Import section of the database created.
@@ -46,11 +47,17 @@ http://localhost:85/phpmyadmin/
 Login credentials
 Admin
 Username :- admin
+
 Password :- admin
+
 User
+
 Username/Email :- sb@g.com
+
 Password :- sb@g
+
 In case the above mentioned admin isn't accessible , please create one of your own in the database under the table name : admin.
+
 Similarly for the user , create one entry of your own in the database under the table name : tblusers 
 
 Sincerely
